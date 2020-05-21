@@ -1,3 +1,4 @@
+<img src="pycord.png">
 # pycord
 Simple discord.py bot for beginners
 
