@@ -1,5 +1,4 @@
-<img src="pycord.png">
-# pycord
+<img src="pycord.png">\
 Simple discord.py bot for beginners
 
 # Dependencies
@@ -8,3 +7,4 @@ Simple discord.py bot for beginners
 
 # To-Do
 - Add more commands
+- Squash more bugs
