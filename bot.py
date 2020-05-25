@@ -14,3 +14,5 @@ async def on_ready():
 @client.command()
 async def ping(ctx)
   await ctx.send("Pong!")
+
+client.run(TOKEN)
